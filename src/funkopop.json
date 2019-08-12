@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "captaincaveman",
+        "image": "../pictures/captaincaveman.jpg"
+    },
+    {
+        "id": 2,
+        "name": "georgejetson",
+        "image": "../pictures/georgejetson.jpg"
+    },
+    {
+        "id": 3,
+        "name": "ghostspace",
+        "image": "../pictures/ghostspace.jpg"
+    },
+    {
+        "id": 4,
+        "name": "hormigaatomica",
+        "image": "../pictures/hormigaatomica.jpg"
+    },
+    {
+        "id": 5,
+        "name": "huckleberryhound",
+        "image": "../pictures/huckleberryhound.jpg"
+    },
+    {
+        "id": 6,
+        "name": "inspector",
+        "image": "../pictures/inspector.jpg"
+    },
+    {
+        "id": 7,
+        "name": "muttley",
+        "image": "../pictures/muttley.jpg"
+    },
+    {
+        "id": 8,
+        "name": "pedropicapiedra",
+        "image": "../pictures/pedropicapiedra.jpg"
+    },
+    {
+        "id": 9,
+        "name": "QuickDrawMcGraw",
+        "image": "../pictures/QuickDrawMcGraw.jpg"
+    },
+    {
+        "id": 10,
+        "name": "ScoobyDoo",
+        "image": "../pictures/ScoobyDoo.jpg"
+    },
+    {
+        "id": 11,
+        "name": "topcat",
+        "image": "../pictures/topcat.jpg"
+    },
+    {
+        "id": 12,
+        "name": "yogibear",
+        "image": "../pictures/yogibear.jpg"
+    }
+]
